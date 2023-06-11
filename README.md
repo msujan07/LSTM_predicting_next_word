@@ -1,4 +1,4 @@
-# Predicting the next word in a sentence using LSTM(AlcoveX Task)
+# Predicting the next word in a sentence using LSTM
 The LSTM project is a tool that utilizes Long Short-Term Memory (LSTM) neural networks to predict the next word in a sentence.
 
 The dataset used for the model:https://www.gutenberg.org/cache/epub/5200/pg5200.txt
